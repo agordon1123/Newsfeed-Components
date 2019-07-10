@@ -112,3 +112,50 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new artible
 
 */
+
+function createComponent(par1, par2, par3, par4, par5) {
+  // Define new elements
+  const articles = document.querySelector('.articles');
+  const article = document.createElement('div');
+  const title = document.createElement('h2');
+  const date = document.createElement('p');
+  const firstParagraph = document.createElement('p');
+  const secondParagraph = document.createElement('p');
+  const thirdParagraph = document.createElement('p');
+  const button = document.createElement('span');
+  
+  // Setup structure of elements
+  articles.appendChild(article);
+  article.appendChild(title);
+  article.appendChild(date);
+  article.appendChild(button);
+  article.appendChild(firstParagraph);
+  article.appendChild(secondParagraph);
+  article.appendChild(thirdParagraph);
+
+  // Set class names
+  article.classList.add('article');
+  date.classList.add('date');
+  button.classList.add('expandButton');
+
+  // Set text content
+  title.textContent = par1;
+  date.textContent = par2;
+  firstParagraph.textContent = par3;
+  secondParagraph.textContent = par4;
+  thirdParagraph.textContent = par5;
+  button.textContent = 'Show';
+
+  button.addEventListener('click', () => {
+    article.classList.toggle('article-open')
+    if(article.classList.contains('article-open')) {
+    article.classList.toggle('close')
+    }
+  })
+
+  return article;
+}
+
+data.forEach(obj => {
+  createComponent(obj.title, obj.date, obj.firstParagraph, obj.secondParagraph, obj.thirdParagraph)
+});
