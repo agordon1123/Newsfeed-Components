@@ -51,6 +51,7 @@ function createMenu(menuItems, button) {
     li = document.createElement('li');
     menuList.appendChild(li);
     li.textContent = item;
+    
   })
 
   button.addEventListener('click', () => {

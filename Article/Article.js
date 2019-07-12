@@ -87,25 +87,25 @@ const data = [
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
   },
   {
-    title: 'x',
-    date: 'x',
-    firstParagraph: 'x',
-    secondParagraph: 'x',
-    thirdParagraph: 'x',
+    title: 'The Lambda Method: Immersion',
+    date: 'Nov 23rd, 2019',
+    firstParagraph: 'Lorem ipsum dolor amet hoodie lomo activated charcoal helvetica   yuccie green juice banjo. Portland man bun distillery quinoa unicorn pitchfork. Vexillologist pok pok vinyl kombucha etsy, PBR&B affogato kogi readymade humblebrag sartorial four dollar toast mumblecore keytar. Raclette 8-bit four dollar toast, single-origin coffee enamel pin man bun crucifix aesthetic tattooed vexillologist bushwick typewriter taxidermy fanny pack literally. Waistcoat cornhole dreamcatcher keytar, bicycle rights try-hard polaroid mustache thundercats.',
+    secondParagraph: 'Cronut vegan tbh, pug butcher humblebrag actually try-hard palo santo normcore. Try-hard quinoa selvage cold-pressed narwhal enamel pin vice. Mumblecore polaroid everyday carry pork belly hella celiac pinterest helvetica crucifix jean shorts shabby chic etsy 3 wolf moon taiyaki prism. Pork belly selvage green juice vexillologist, food truck neutra forage gochujang stumptown. Photo booth freegan gochujang readymade four loko umami meggings man bun air plant pop-up iceland jean shorts.',
+    thirdParagraph: 'Echo park beard selfies flexitarian, keytar mlkshk asymmetrical. Whatever palo santo thundercats mustache brooklyn selvage. Whatever everyday carry hot chicken gluten-free pug try-hard kinfolk green juice biodiesel intelligentsia trust fund venmo pork belly. Fingerstache man braid direct trade, pok pok vegan franzen hashtag yr deep v adaptogen scenester tousled tattooed. Cray freegan gochujang scenester, glossier YOLO cloud bread small batch intelligentsia crucifix. Raw denim put a bird on it distillery crucifix. Retro la croix you probably haven\'t heard of them, try-hard williamsburg deep v edison bulb vinyl.',
   },
   {
-    title: 'y',
-    date: 'y',
-    firstParagraph: 'y',
-    secondParagraph: 'y',
-    thirdParagraph: 'y',
+    title: 'Lambda Grad \'Lands\' Job with NASA',
+    date: 'Nov 26th, 2019',
+    firstParagraph: 'Lambda ipsum dolor amet Arrested Development. I mean, it\'s one banana, Michael. What could it cost, ten dollars? Everybody dance… NOW. I\'m foolish and I\'m funny and I\'m needy. Am I needy? Are you sure I\'m not needy? \'Cause I feel needy sometimes. Well excuse me, Judge Reinhold! Great, now I\'m gonna smell to high heaven like a tuna melt! Who? i just dont want him to point out my cracker ass in front of ann. I\'ve got a nice hard cot with his name on it. You\'d do that to your own brother? I said "cot." Buster, what are you doing with mother\'s rape horn?',
+    secondParagraph: 'In prison, you just have to close your eyes and take it, but here you have to close your eyes and give it. I know, I just call her Annabelle cause she\'s shaped like a…she\'s the belle of the ball! Mr. Zuckerkorn, you\'ve been warned about touching. Barry: You said spanking. The worst that could happen is that I could spill coffee all over this $3,000 suit. COME ON. I could use a leather jacket for when I\'m on my hog and have to go into a controlled slide. The worst that could happen is that I could spill coffee all over this $3,000 suit. COME ON.',
+    thirdParagraph: 'That was Tom Cruise, the actor. Lucille: They said he was some kind of scientist. A night of heterosexual intercourse. I\'m foolish and I\'m funny and I\'m needy. Am I needy? Are you sure I\'m not needy? \'Cause I feel needy sometimes. Buster, you remember when we were kissing last night? Buster: It was a wild, wild ride. Look at us, crying like a bunch of girls on the last day of camp.',
   },
   {
-    title: 'z',
-    date: 'z',
-    firstParagraph: 'z',
-    secondParagraph: 'z',
-    thirdParagraph: 'z',
+    title: 'Lambda Introduces: Lambda Launch',
+    date: 'Dec 1st, 2019',
+    firstParagraph: 'Cat ipsum dolor sit amet, give attitude. Meoooow suddenly go on wild-eyed crazy rampage. Kitty time. I hate cucumber pls dont throw it at me. Scream at teh bath loves cheeseburgers yet being gorgeous with belly side up for meow in empty rooms so try to jump onto window and fall while scratching at wall. Stand with legs in litter box, but poop outside shove bum in owner\'s face like camera lens but stare at owner accusingly then wink so chase dog then run away step on your keyboard while you\'re gaming and then turn in a circle . Purr when give birth catasstrophe i can haz or hit you unexpectedly rub face on owner ask to go outside and ask to come inside and ask to go outside and ask to come inside.',
+    secondParagraph: 'Run in circles scratch the box, but run up and down stairs but i can haz yet i could pee on this if i had the energy for rub whiskers on bare skin act innocent. Try to hold own back foot to clean it but foot reflexively kicks you in face, go into a rage and bite own foot, hard sleep everywhere, but not in my bed for ptracy, or fooled again thinking the dog likes me for missing until dinner time scratch my tummy actually i hate you now fight me yet sleep everywhere, but not in my bed.',
+    thirdParagraph: 'Lorizzle ipsum dolizzle sit amizzle, consectetuer adipiscing fo shizzle my nizzle. Nullam dizzle velit, aliquet volutpizzle, suscipizzle quizzle, shiznit vizzle, that\'s the shizzle. Pellentesque fo shizzle gizzle. Sed erizzle. Cool izzle dolizzle gangsta pot tempus daahng dawg. Maurizzle pellentesque nibh izzle turpizzle. Vestibulum izzle ghetto. Pellentesque bizzle rhoncus nisi. In gizzle gangsta platea dictumst. I saw beyonces tizzles and my pizzle went crizzle dapibus. Shizznit tellizzle go to hizzle, pretizzle eu, mattizzle izzle, nizzle dizzle, nunc. Bow wow wow suscipizzle. Shit semper velit sizzle pimpin.',
   }
 ];
 
