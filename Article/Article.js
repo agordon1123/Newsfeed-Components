@@ -85,6 +85,27 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'x',
+    date: 'x',
+    firstParagraph: 'x',
+    secondParagraph: 'x',
+    thirdParagraph: 'x',
+  },
+  {
+    title: 'y',
+    date: 'y',
+    firstParagraph: 'y',
+    secondParagraph: 'y',
+    thirdParagraph: 'y',
+  },
+  {
+    title: 'z',
+    date: 'z',
+    firstParagraph: 'z',
+    secondParagraph: 'z',
+    thirdParagraph: 'z',
   }
 ];
 
